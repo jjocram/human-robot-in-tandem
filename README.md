@@ -1,4 +1,4 @@
-# import_collada_file_in_gazebo
+# Import Collada file (3D model) in Gazebo simulator
 A step by step guide on how to import (3D model) collada file in Gazebo simulator
 
 ## 1. Find the model
