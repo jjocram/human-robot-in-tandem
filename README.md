@@ -6,3 +6,4 @@
 
 ## Hand gesture recognition
 - [Repository to train a neural network to recognize custom hand gesture](https://github.com/kinivi/tello-gesture-control)
+- [My version of hand gesture recognizer.](https://github.com/jjocram/gesture-recognizer)
